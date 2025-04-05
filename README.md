@@ -45,4 +45,15 @@ Id ve body ile name surname güncelleme
 Id ile silme
     DELETE -> http://localhost:8086/users/:id
 
+* Swagger Notlari
+
+    Swagger Arayüzüne Erişim
+    Uygulamanı çalıştırdıktan sonra aşağıdaki URL'lere gidebilirsin:
+    
+    Swagger UI:
+    -> http://localhost:8080/swagger-ui/
+    
+    OpenAPI JSON:
+    -> http://localhost:8080/v3/api-docs
+
 ```
